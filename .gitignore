@@ -1,0 +1,12 @@
+.idea/.name
+.idea/copyright/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sass_gulp_hands.iml
+.idea/vcs.xml
+.idea/workspace.xml
+node_modules/
+src/style.css
+_gulpfile.js
+_package.json
